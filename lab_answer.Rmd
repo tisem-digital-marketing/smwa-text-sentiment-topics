@@ -363,6 +363,9 @@ hotel_topics <-
 
 HINT: Your final plot should look resemble this one:
 
+```{r, echo = FALSE, out.width='75%', fig.align='center'}
+knitr::include_graphics("figs/topics_polarity.png")
+```
 
 ```{r}
 # Write your answer here
